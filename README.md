@@ -1,9 +1,12 @@
+<link rel=stylesheet href="css/styles.css">
+
 ### Hello World! 👋🏼 Welcome to my Github
+
 #### My name is Kevin Guevara, I decided to learn programming at the end of the year 2020, currently I'm studying software development thanks to the Faculty of Engineering of the 'Universidad de Antioquia'.
 
 
 <div >
-  <img align="left" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Coder GIF" width="250" height="150">
+  <img class="gif" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Coder GIF" width="250" height="150">
 </div>
 
 #### :books: I’m currently learning:

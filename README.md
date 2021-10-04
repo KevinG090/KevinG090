@@ -1,6 +1,6 @@
 ### Hello World! 👋🏼 Welcome to my Github
 
-#### My name is Kevin Guevara, I decided to learn programming at the end of the year 2020, currently I'm studying software development thanks to the Faculty of Engineering of the 'Universidad de Antioquia'.
+### My name is Kevin Guevara, I decided to learn programming at the end of the year 2020, currently I'm studying software development thanks to the Faculty of Engineering of the 'Universidad de Antioquia'.
 
  ## :calendar: I'm currently  ...</h2>
 

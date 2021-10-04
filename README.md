@@ -2,7 +2,7 @@
 #### My name is Kevin Guevara, I
 
 
-### :bar_chart: Some technologies that I use frequently: 
+### :bar_chart: Technologies that I use frequently: 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 ### :books: I’m currently learning:
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/KevinG090/)](https://github.com/KevinG090/)

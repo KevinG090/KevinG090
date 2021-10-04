@@ -4,7 +4,7 @@
 
 
 <div >
-  <img aling=left src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Coder GIF" width="250" height="150">
+  <img align=left src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Coder GIF" width="240" height="150">
 </div>
 
 #### :books: I’m currently learning:

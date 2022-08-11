@@ -1,6 +1,6 @@
 ## Hello World! 👋🏼 Welcome to my Github
 
-### My name is Kevin Guevara, I decided to learn programming at the end of the year 2020, currently I'm studying software development thanks to the Faculty of Engineering of the 'Universidad de Antioquia'.
+### My name is Kevin Guevara, I decided to learn programming at the end of the year 2020, currently I'm studying software development in ONE, it's an education program thanks to Alura Latam and Oracle
 
  ## :calendar: I'm currently  ...</h2>
 
@@ -17,7 +17,7 @@
  <h4> 
 
 - Maintenance assistant and computer systems
-
+- Development of Web application (Faculty of Engineering of the 'Universidad de Antioquia').
 </h4>
 
 ![KevinG090's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinG090&show_icons=true&theme=github_dark)
